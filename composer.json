@@ -1,4 +1,7 @@
 {
+   "name": "fedoskin/test-inst-api",
+   "description": "This is a simple empty package for education purposes.",
+   "version": "0.0.1"
    "require": {
       "cosenary/instagram": "*"
    }
